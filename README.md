@@ -7,4 +7,7 @@ There are links at the top right of the page which are now clickable and take yo
 URL for the website:
 https://kmelissasantos.github.io/horiseon-seo-website-
 
-
+Image of deployed site: 
+<div align="center">
+    <img src="/images/screen shot 2021-04-18 at 10.50.28 PM.png" width="400px"</img> 
+</div>
