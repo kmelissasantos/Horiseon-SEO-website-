@@ -5,3 +5,6 @@ and more conscise while also touching up the structure of the code to be more co
 There are links at the top right of the page which are now clickable and take you to the correct area of the site.
 
 URL for the website:
+https://kmelissasantos.github.io/horiseon-seo-website-
+
+
